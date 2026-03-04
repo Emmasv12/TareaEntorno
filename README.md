@@ -6,7 +6,6 @@ Este repositorio contiene los programas desarrollados en Java durante el módulo
 
 A lo largo del curso se han aplicado los principios de la Programación Orientada a Objetos para estructurar correctamente el código y facilitar su reutilización y mantenimiento.
 
----
 
 ## Contenidos vistos en el módulo
 
@@ -21,7 +20,6 @@ Durante el desarrollo del módulo se han trabajado los siguientes contenidos:
 - Gestión de excepciones
 - Uso de Git y GitHub
 
----
 
 ## Programación Orientada a Objetos
 
@@ -36,7 +34,6 @@ La Programación Orientada a Objetos se basa en cuatro pilares fundamentales:
 
 Estos principios permiten desarrollar aplicaciones más organizadas, escalables y fáciles de mantener.
 
----
 
 ## Estructuras utilizadas
 
@@ -51,8 +48,6 @@ Estos principios permiten desarrollar aplicaciones más organizadas, escalables 
 - while  
 - do-while  
 
----
-
 ## Organización del proyecto
 
 1. Programa 1  
@@ -61,7 +56,6 @@ Estos principios permiten desarrollar aplicaciones más organizadas, escalables 
 
 Cada programa aplica distintos conceptos estudiados en clase, como el uso de clases, métodos, menús interactivos con Scanner y estructuras de datos dinámicas.
 
----
 
 ## Recursos de apoyo
 
@@ -69,13 +63,11 @@ Cada programa aplica distintos conceptos estudiados en clase, como el uso de cla
 - Guía de Markdown: https://www.markdownguide.org/
 - GitHub: https://github.com/
 
----
 
 ## Imagen representativa
 
 ![Logo Java](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)
 
----
 
 ## Conclusión
 
